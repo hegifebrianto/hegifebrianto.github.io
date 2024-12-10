@@ -190,6 +190,15 @@ a {
     text-align: center;
     font-weight: 700;
 }
+.about-me h2 {
+    padding: 10px;
+    border-bottom: 5px solid #2098D1;
+    display: inline-block;
+    font-size: 55px;
+    /* color: #87A4B6; */
+    text-align: center;
+    font-weight: 700;
+}
 
 .skills .skill img {
     height: 100px;
